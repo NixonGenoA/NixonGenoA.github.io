@@ -38,7 +38,7 @@ padding: 7px 16px;
 
 </div>
 
-## Projects
+## Open Projects 
 <div>
 <ul class="menu">
   <li><a class="active" href="#home">Computer Vision Project</a></li>
