@@ -1,7 +1,9 @@
 ## Portfolio
+<div>
 <p>Home</p>
 <p>Home</p>
 <p>Home</p>
+</div>
 ---
 
 ### Category Name 1 
