@@ -9,11 +9,11 @@
   background-color: #333;
 }
 
-.menu li {
+.menu > li {
   float: left;
 }
 
-.menu li a {
+.menu > li a {
   display: block;
   color: white;
   text-align: center;
@@ -21,7 +21,7 @@
   text-decoration: none;
 }
 
-.menu li a:hover {
+.menu > li a:hover {
   background-color: #111;
 }
 </style>
