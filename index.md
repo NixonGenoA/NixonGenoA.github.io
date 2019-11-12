@@ -19,6 +19,7 @@
   padding: 7px 16px;
   color:#7d7d7d;
   text-decoration: none;
+  font-weight:bold;
 }
 
 .menu > li a:hover {
