@@ -16,14 +16,16 @@
 .menu > li a {
   display: block;  
   text-align: center;
-  padding: 14px 16px;
+  padding: 7px 16px;
+  color:#7d7d7d;
   text-decoration: none;
 }
 
 .menu > li a:hover {
-padding: 14px 16px;
+padding: 7px 16px;
     border-radius: 49px;
-    background-color:grey;
+    background-color:#e4e2e2;
+    color:#7d7d7d;
     }
 </style>
 <ul class="menu">
