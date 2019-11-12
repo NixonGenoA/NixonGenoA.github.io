@@ -29,10 +29,10 @@ padding: 7px 16px;
     }
 </style>
 <ul class="menu">
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a class="active" href="#home">Project</a></li>
+  <li><a href="#news">Publications</a></li>
+  <li><a href="#contact">Certification</a></li>
+  <li><a href="#about">Hire Me</a></li>
 </ul>
 </div>
 <br>
