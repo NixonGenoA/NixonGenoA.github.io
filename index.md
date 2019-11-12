@@ -21,8 +21,8 @@
 }
 
 .menu > li a:hover {
-  background-color: #111;
-}
+padding: 14px 16px;
+    border-radius: 49px;}
 </style>
 <ul class="menu">
   <li><a class="active" href="#home">Home</a></li>
