@@ -39,7 +39,7 @@ padding: 7px 16px;
 </div>
 <br>
 
-## Open Projects 
+## Projects 
 
 ### Category Name 1 
 
