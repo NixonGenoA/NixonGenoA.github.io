@@ -1,4 +1,4 @@
-<div style="margin-bottom:7%">
+<div>
 <style>
 .menu {
   list-style-type: none;
@@ -35,7 +35,7 @@ padding: 7px 16px;
   <li><a href="#about">About</a></li>
 </ul>
 </div>
-
+<br>
 
 ### Category Name 1 
 
