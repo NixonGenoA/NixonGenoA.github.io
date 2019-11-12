@@ -32,9 +32,11 @@ padding: 7px 16px;
 <ul class="menu">
   <li><a class="active" href="#home">Projects</a></li>
   <li><a href="#news">Publication</a></li>
+  <li><a href="#contact">Certifications</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
 
+### Projects
 <ul class="menu">
   <li><a class="active" href="#home">Computer Vision Project</a></li>
   <li><a href="#news">NLP Projects</a></li>
