@@ -28,6 +28,13 @@ padding: 7px 16px;
     color:#7d7d7d;
     }
 </style>
+
+<ul class="menu">
+  <li><a class="active" href="#home">Projects</a></li>
+  <li><a href="#news">Publication</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+
 <ul class="menu">
   <li><a class="active" href="#home">Computer Vision Project</a></li>
   <li><a href="#news">NLP Projects</a></li>
