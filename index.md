@@ -6,7 +6,6 @@
 
 [Project 1 Title](/sample_page)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
