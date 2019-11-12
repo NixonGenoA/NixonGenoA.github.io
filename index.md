@@ -37,7 +37,7 @@ padding: 7px 16px;
 </ul>
 
 </div>
-
+<br>
 ## Open Projects 
 <div>
 <ul class="menu">
@@ -46,7 +46,7 @@ padding: 7px 16px;
   <li><a href="#contact">Graphics Prjects</a></li>
 </ul>
 </div>
-<br>
+
 
 ### Category Name 1 
 
