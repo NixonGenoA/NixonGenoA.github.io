@@ -36,7 +36,10 @@ padding: 7px 16px;
   <li><a href="#contact">Contact</a></li>
 </ul>
 
-### Projects
+</div>
+
+## Projects
+<div>
 <ul class="menu">
   <li><a class="active" href="#home">Computer Vision Project</a></li>
   <li><a href="#news">NLP Projects</a></li>
