@@ -38,15 +38,8 @@ padding: 7px 16px;
 
 </div>
 <br>
-## Open Projects 
-<div>
-<ul class="menu">
-  <li><a class="active" href="#home">Computer Vision Project</a></li>
-  <li><a href="#news">NLP Projects</a></li>
-  <li><a href="#contact">Graphics Prjects</a></li>
-</ul>
-</div>
 
+## Open Projects 
 
 ### Category Name 1 
 
