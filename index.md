@@ -23,6 +23,7 @@
 .menu > li a:hover {
 padding: 14px 16px;
     border-radius: 49px;
+    background-color:grey;
     }
 </style>
 <ul class="menu">
