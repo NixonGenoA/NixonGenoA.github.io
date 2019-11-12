@@ -1,7 +1,7 @@
 ## Portfolio
 <div>
 <style>
-ul {
+.menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -9,11 +9,11 @@ ul {
   background-color: #333;
 }
 
-li {
+.menu li {
   float: left;
 }
 
-li a {
+.menu li a {
   display: block;
   color: white;
   text-align: center;
@@ -21,11 +21,11 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.menu li a:hover {
   background-color: #111;
 }
 </style>
-<ul>
+<ul class="menu">
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
