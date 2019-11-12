@@ -7,4 +7,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   <br><br>
+  <style>footer{display:none}</style>
 theme: jekyll-theme-minimal
