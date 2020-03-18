@@ -48,7 +48,7 @@ a:hover{
 
 ### Category Name 1 
 
-[Demo](/sample_page)[Description](/sample_page)
+[Demo](/sample_page)     [Description](/sample_page)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
