@@ -28,6 +28,10 @@ padding: 7px 16px;
     background-color:#e4e2e2;
     color:#7d7d7d;
     }
+
+a:hover{
+      font-weight: normal;
+}
 </style>
 
 <ul class="menu">
