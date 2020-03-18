@@ -48,7 +48,7 @@ p > a{
 </div>
 <br>
 
-## Projects 
+# Projects 
 
 ### A Beginner’s Guide to Data Integration Approaches in Business Intelligence 
 
