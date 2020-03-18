@@ -57,6 +57,7 @@ p > a{
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+<br>
 
 ### Five Interesting Data Engineering Projects
 [Demo](/pdf/sample_presentation.pdf)[In Detail](/sample_page)
@@ -64,7 +65,7 @@ p > a{
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-
+<br>
 ### Forecasting Stories: Is it seasonality or not? 
 [Demo](http://example.com/)[In Detail](/sample_page)
 <p>Kicking off with a series of forecasting stories, starting with seasonality and its business applications. This first article speaks of course corrections that were based on weather and calendar driven seasonality.
