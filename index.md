@@ -32,6 +32,10 @@ padding: 7px 16px;
 a:hover{
       font-weight: normal;
 }
+
+p > a{
+      padding-right: 25px;
+}
 </style>
 
 <ul class="menu">
@@ -46,19 +50,25 @@ a:hover{
 
 ## Projects 
 
-### Category Name 1 
+### A Beginner’s Guide to Data Integration Approaches in Business Intelligence 
 
-[Demo](/sample_page)     [Description](/sample_page)
+[Demo](/sample_page)[In Detail](/sample_page)
+<p>An integrated BI system has a trickle-down effect on all business processes, especially reporting and analytics. Find out how integration can help you leverage the power of BI.
+</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-### Category Name 1 
-[Demo](/pdf/sample_presentation.pdf)[Description](/sample_page)
+### Five Interesting Data Engineering Projects
+[Demo](/pdf/sample_presentation.pdf)[In Detail](/sample_page)
+<p>As the role of the data engineer continues to grow in the field of data science, so are the many tools being developed to support wrangling all that data. Five of these tools are reviewed here (along with a few bonus tools) that you should pay attention to for your data pipeline work.
+</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-### Category Name 1 
-[Demo](http://example.com/)[Description](/sample_page)
+### Forecasting Stories: Is it seasonality or not? 
+[Demo](http://example.com/)[In Detail](/sample_page)
+<p>Kicking off with a series of forecasting stories, starting with seasonality and its business applications. This first article speaks of course corrections that were based on weather and calendar driven seasonality.
+</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
