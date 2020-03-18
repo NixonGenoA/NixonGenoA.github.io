@@ -44,13 +44,17 @@ padding: 7px 16px;
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Demo](/sample_page)[Description](/sample_page)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Category Name 1 
+[Demo](/pdf/sample_presentation.pdf)[Description](/sample_page)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-[Project 3 Title](http://example.com/)
+
+### Category Name 1 
+[Demo](http://example.com/)[Description](/sample_page)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
