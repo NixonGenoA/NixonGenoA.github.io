@@ -46,7 +46,6 @@ p > a{
 </ul>
 
 </div>
-<br>
 
 # Projects 
 
