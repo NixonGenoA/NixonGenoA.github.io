@@ -57,7 +57,7 @@ p > a{
 </p>
 [Demo](/sample_page)[In Detail](/sample_page)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-___
+
 <br>
 <br>
 
@@ -66,7 +66,7 @@ ___
 <p>As the role of the data engineer continues to grow in the field of data science, so are the many tools being developed to support wrangling all that data. Five of these tools are reviewed here (along with a few bonus tools) that you should pay attention to for your data pipeline work.
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-___
+
 <br>
 <br>
 
