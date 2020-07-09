@@ -12,6 +12,9 @@ section{
   float: left;
   width: 65%;
 }
+.out{
+  font-weight: normal;
+}
 </style>
 
 ## This can be your internal website page / project page
