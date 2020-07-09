@@ -102,7 +102,7 @@ h3{
 <div>
 
 <ul class="menu">
-  <li><a class="active" href="https://nixongenoa.github.io">Home</a></li>
+  <li><a class="active" href="https://nixongenoa.github.io">Next Page</a></li>
 </ul>
 </div>
 
