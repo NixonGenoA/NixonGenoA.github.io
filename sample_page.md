@@ -51,7 +51,9 @@ padding: 7px 16px;
     background-color:#e4e2e2;
     color:#7d7d7d;
     }
-
+h1{
+  font-size: xx-large;
+}
 
 </style>
 <div>
