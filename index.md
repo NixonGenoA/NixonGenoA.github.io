@@ -67,9 +67,8 @@ p > a{
 
 <p>An integrated BI system has a trickle-down effect on all business processes, especially reporting and analytics. Find out how integration can help you leverage the power of BI.
 </p>
-<div class="tag">
+
 [Demo](/sample_page)
-</div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
