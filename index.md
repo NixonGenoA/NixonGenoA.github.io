@@ -57,6 +57,10 @@ p > a:hover{
   font-weight: normal;
   color: #c38b22;
 }
+
+h3{
+  font-size: xx-large;
+}
 </style>
 
 <ul class="menu">
