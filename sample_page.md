@@ -15,11 +15,31 @@ section{
 .out:hover{
   font-weight: normal;
 }
+
+.menu > li {
+  float: left;
+}
+
+.menu > li a {
+  display: block;  
+  text-align: center;
+  padding: 7px 16px;
+  color:#7d7d7d;
+  text-decoration: none;
+  font-weight:bold;
+}
+
+.menu > li a:hover {
+padding: 7px 16px;
+    border-radius: 49px;
+    background-color:#e4e2e2;
+    color:#7d7d7d;
+    }
 </style>
 <div>
 
 <ul class="menu">
-  <li><a class="active" href="https://nixongenoa.github.io">Projects</a></li>
+  <li><a class="active" href="https://nixongenoa.github.io">Home</a></li>
 </ul>
 </div>
 
