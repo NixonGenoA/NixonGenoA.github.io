@@ -19,7 +19,7 @@ section{
 .menu {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding-bottom: 2%;
   overflow: hidden;
   
   
@@ -42,6 +42,7 @@ section{
   background-color:#e4e2e2;
   text-decoration: none;
   font-weight:bold;
+  border-radius: 49px;
 }
 
 .menu > li a:hover {
