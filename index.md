@@ -9,6 +9,15 @@
   
 }
 
+header{
+  position:relative
+}
+
+section{
+  float: left;
+  width: 65%;
+}
+
 .menu > li {
   float: left;
 }
