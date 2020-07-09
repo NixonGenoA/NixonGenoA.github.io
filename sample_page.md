@@ -24,6 +24,10 @@ section{
   
   
 }
+.menu > ul {
+  width: 14%;
+  padding-bottom: 2%;
+}
 
 .menu > li {
   float:left;
