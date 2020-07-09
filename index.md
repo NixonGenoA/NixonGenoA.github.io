@@ -13,7 +13,8 @@
 }
 
 header{
-  position:relative
+  position:relative;
+  padding-right: 20px;
 }
 
 section{
