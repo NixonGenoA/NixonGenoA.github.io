@@ -26,7 +26,8 @@ section{
 }
 
 .menu > li {
-  
+  float:left;
+  clear:right;
 }
 
 .menu > li a {
