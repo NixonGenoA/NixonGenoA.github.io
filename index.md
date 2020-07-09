@@ -48,7 +48,10 @@ a:hover{
 }
 
 p > a{
-      padding-right: 25px;
+      padding: 3px 17px;
+    background-color: black;
+    border-radius: 19px;
+    color: #c38b22;
 }
 </style>
 
