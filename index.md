@@ -49,9 +49,13 @@ a:hover{
 
 p > a{
       padding: 3px 17px;
-    background-color: black;
+    background-color: #191818;
     border-radius: 19px;
     color: #c38b22;
+}
+p > a:hover{
+  font-weight: normal;
+  color: #c38b22;
 }
 </style>
 
