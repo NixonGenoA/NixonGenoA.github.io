@@ -19,7 +19,7 @@ section{
 .menu {
   list-style-type: none;
   margin: 0;
-  padding-bottom: 2%;
+  padding: 2% 0%;
   overflow: hidden;
   
   
