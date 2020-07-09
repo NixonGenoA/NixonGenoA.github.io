@@ -12,7 +12,7 @@ section{
   float: left;
   width: 65%;
 }
-.out{
+.out:hover{
   font-weight: normal;
 }
 </style>
