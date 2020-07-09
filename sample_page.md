@@ -39,6 +39,7 @@ section{
   text-align: center;
   padding: 7px 16px;
   color:#7d7d7d;
+  background-color:#e4e2e2;
   text-decoration: none;
   font-weight:bold;
 }
