@@ -63,12 +63,6 @@ h3{
 }
 </style>
 
-<ul class="menu">
-  <li><a class="active" href="#home">Projects</a></li>
-  <li><a href="#news">Publication</a></li>
-  <li><a href="#contact">Certifications</a></li>
-  <li><a href="#contact">Get in Touch</a></li>
-</ul>
 
 </div>
 # Projects 

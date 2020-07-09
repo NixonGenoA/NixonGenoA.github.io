@@ -16,6 +16,12 @@ section{
   font-weight: normal;
 }
 </style>
+<div>
+
+<ul class="menu">
+  <li><a class="active" href="https://nixongenoa.github.io">Projects</a></li>
+</ul>
+</div>
 
 ## This can be your internal website page / project page
 
