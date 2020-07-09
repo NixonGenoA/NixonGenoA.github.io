@@ -23,6 +23,7 @@ section{
 [Back](/sample_page)
 
 </span>
+
 <span>
 
 [Next](/sample_page)
