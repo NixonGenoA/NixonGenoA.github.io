@@ -44,6 +44,7 @@ padding: 7px 16px;
 
 a:hover{
       font-weight: normal;
+      font-weight: bold;
 }
 
 p > a{
