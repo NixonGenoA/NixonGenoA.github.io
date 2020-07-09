@@ -8,6 +8,9 @@
   display:none;
   
 }
+.wrapper{
+  width:100%;
+}
 
 header{
   position:relative
