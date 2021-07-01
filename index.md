@@ -69,11 +69,11 @@ h3{
 
 ### 🗃️ Loading Data from UCI Machine Learning Data into Pandas
 
-<p>Learning to handle datasets is the integral part of data science skills. In this blog we will be focuding on loading datasets one of the best known machine learning resposisotry - UCI Machine Learning Reposistorty "https://archive.ics.uci.edu/ml/datasets.php". This repo provides various small datasets across various domains, variable types and for various machine learning tasks which will help us learning data handling and training machine learning algorithms.
+<p> 📚 Learning to handle datasets is the integral part of data science skills. In this blog we will be focuding on loading datasets one of the best known machine learning resposisotry - UCI Machine Learning Reposistorty "https://archive.ics.uci.edu/ml/datasets.php". This repo provides various small datasets across various domains, variable types and for various machine learning tasks which will help us learning data handling and training machine learning algorithms.
 </p>
-[Demo](/notebook/Sample.html)
+[Read More](/notebook/Sample.html)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/UCI_homepage.png?raw=true"/>
 
 <br>
 <br>
