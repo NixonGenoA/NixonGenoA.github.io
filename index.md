@@ -77,8 +77,7 @@ h3{
 <br>
 <br>
 
-
-
+<div>
 <ul class="menu">
   <li><a class="active" href="https://nixongenoa.github.io">Next Page</a></li>
 </ul>
