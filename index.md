@@ -65,14 +65,15 @@ h3{
 
 
 </div>
-# Projects 
+# 💡 Blog 
 
-### Five Interesting Data Engineering Projects
+### 🗃️ Loading Data from UCI Machine Learning Data into Pandas
 
-<p>As the role of the data engineer continues to grow in the field of data science, so are the many tools being developed to support wrangling all that data. Five of these tools are reviewed here (along with a few bonus tools) that you should pay attention to for your data pipeline work.
+<p>Learning to handle datasets is the integral part of data science skills. In this blog we will be focuding on loading datasets one of the best known machine learning resposisotry - UCI Machine Learning Reposistorty "https://archive.ics.uci.edu/ml/datasets.php". This repo provides various small datasets across various domains, variable types and for various machine learning tasks which will help us learning data handling and training machine learning algorithms.
 </p>
 [Demo](/notebook/Sample.html)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKvQbpDYXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <br>
 <br>
