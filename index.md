@@ -19,7 +19,7 @@ header{
 
 @media screen and (max-width: 992px) {
   section {
-    width: 100%;
+    width: 100% !important;
   }
 }
 
