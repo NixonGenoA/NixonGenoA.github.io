@@ -17,6 +17,12 @@ header{
   padding-right: 20px;
 }
 
+@media screen and (max-width: 992px) {
+  section {
+    width: 100%;
+  }
+}
+
 section{
   float: left;
   width: 65%;
