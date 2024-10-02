@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 <style>
-  body {
+  .articles {
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 20px;
@@ -34,14 +34,21 @@ redirect_from:
     margin: 12px;
     padding:8px;
     border-radius: 12px;
+    padding:2px;
   }
   a {
     color: black !important;
     text-decoration: none !important; /* no underline */
   }
+  .article_heading{
+    margin: 0.5em 0 0.5em;
+    line-height: 1.2;
+    font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-weight: bold;
+  }
 </style>
 </head>
-<body>
+<div class="articles">
 
   <p>I specialize in building and deploying real-time computer vision platforms, generative AI models, and transformer-based systems across diverse industries. With a deep passion for data-driven solutions, I have worked extensively to create scalable, intelligent systems. My expertise spans machine learning, deep learning, and generative AI, focusing on natural language processing, computer vision, and decision-making automation.</p>
 
@@ -49,12 +56,12 @@ redirect_from:
 
 <h2>Articles</h2>
 <div class="article_tile">
-<img href ="https://nixongenoa.github.io/images/tensor_image.webp"/>
+<img src ="https://nixongenoa.github.io/images/tensor_image.webp"/>
 
 <a href="https://nixongenoa.github.io/posts/2024/10/Custom-DataLoader-for-Machine-Learning-in-Python-A-Comprehensive-Guide/" target="_blank">
-<h2>Custom DataLoader for Machine Learning in Python: A Comprehensive Guide</h2>
+<p class = "article_heading">Custom DataLoader for Machine Learning in Python: A Comprehensive Guide</p>
 
 <p>In this blog, we'll cover how to create a custom DataLoader in Python, explore batching, shuffling, custom transformations, and load multidimensional data.</p>
 </a>
 </div>
-</body>
+</div>
