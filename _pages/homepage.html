@@ -46,6 +46,45 @@ redirect_from:
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
     font-weight: bold;
   }
+  .article_img{
+    border-radius: 3%;
+    padding:2px;
+  }
+
+
+  .container {
+    display: flex;
+    align-items: center; /* Aligns items vertically */
+    gap: 20px; /* Space between tile and image */
+}
+
+.tile {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    flex: 1; /* Allow the tile to grow */
+}
+
+.heading {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+}
+
+.content {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+}
+
+.image {
+    width: 300px; /* Set desired image width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
 </style>
 </head>
 <div class="articles">
@@ -56,7 +95,7 @@ redirect_from:
 
 <h2>Articles</h2>
 <div class="article_tile">
-<img src ="https://nixongenoa.github.io/images/tensor_image.webp"/>
+<img class="article_img" src ="https://nixongenoa.github.io/images/tensor_image.webp"/>
 
 <a href="https://nixongenoa.github.io/posts/2024/10/Custom-DataLoader-for-Machine-Learning-in-Python-A-Comprehensive-Guide/" target="_blank">
 <p class = "article_heading">Custom DataLoader for Machine Learning in Python: A Comprehensive Guide</p>
@@ -64,4 +103,12 @@ redirect_from:
 <p>In this blog, we'll cover how to create a custom DataLoader in Python, explore batching, shuffling, custom transformations, and load multidimensional data.</p>
 </a>
 </div>
+</div>
+
+<div class="container">
+  <div class="tile">
+      <h2 class="heading">Custom DataLoader for Machine Learning in Python: A Comprehensive Guide</h2>
+      <p class="content">In this blog, we'll cover how to create a custom DataLoader in Python, explore batching, shuffling, custom transformations, and load multidimensional data.</p>
+  </div>
+  <img src="https://nixongenoa.github.io/images/tensor_image.webp" alt="Tensor" class="image">
 </div>
