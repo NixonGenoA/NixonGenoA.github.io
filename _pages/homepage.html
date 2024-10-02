@@ -52,7 +52,7 @@ redirect_from:
   }
 
 
-  .container {
+.container {
     display: flex;
     align-items: center; /* Aligns items vertically */
     gap: 20px; /* Space between tile and image */
@@ -79,7 +79,7 @@ redirect_from:
 }
 
 .image {
-    width: 300px; /* Set desired image width */
+    width: 100%; /* Set desired image width */
     height: auto; /* Maintain aspect ratio */
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -98,9 +98,8 @@ redirect_from:
 
 <div class="container">
   <div class="tile">
+    <img src="https://nixongenoa.github.io/images/tensor_image.webp" alt="Tensor" class="image">
       <h2 class="heading">
-        <img src="https://nixongenoa.github.io/images/tensor_image.webp" alt="Tensor" class="image">
-
         Custom DataLoader for Machine Learning in Python: A Comprehensive Guide</h2>
       <p class="content">In this blog, we'll cover how to create a custom DataLoader in Python, explore batching, shuffling, custom transformations, and load multidimensional data.</p>
   </div>
