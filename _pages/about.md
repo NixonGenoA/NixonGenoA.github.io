@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /about
 title: "Hello There,:wave: I'm Nixon"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+  - /about/
+  - /about.html
 ---
 I specialize in building and deploying real-time computer vision platforms, generative AI models, and transformer-based systems across diverse industries. With a deep passion for data-driven solutions, I have worked extensively to create scalable, intelligent systems. My expertise spans machine learning, deep learning, and generative AI, focusing on natural language processing, computer vision, and decision-making automation.
 
