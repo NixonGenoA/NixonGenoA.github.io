@@ -10,5 +10,19 @@ I specialize in building and deploying real-time computer vision platforms, gene
 
 I share insights from my work on these innovations, offering a behind-the-scenes look at how AI is transforming industries and creating new possibilities. Join me as I delve into the latest trends, tools, and practical applications in the rapidly evolving world of data science and Generative AI.
 
+### Articles
 
+[Custom DataLoader for Machine Learning in Python: A Comprehensive Guide](https://nixongenoa.github.io/posts/2024/10/Custom-DataLoader-for-Machine-Learning-in-Python-A-Comprehensive-Guide/)
+In this blog, we'll cover how to create a custom DataLoader in Python, explore batching, shuffling, custom transformations, and load multidimensional data.
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
 
